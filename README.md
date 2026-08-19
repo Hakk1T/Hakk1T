@@ -99,7 +99,7 @@ A fuzzy logic based system designed to determine appropriate PC cooling behavior
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Hakk1T&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hakk1T&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
----
+
 
 ## 📫 Connect With Me
 
