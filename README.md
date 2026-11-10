@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hakkı
 
-### Information Systems & Technologies Student | Python Developer | Data Science Enthusiast
+### Graduate of Information Systems and Technologies | Python Developer | Data Science Enthusiast
 
 I'm a final-year **Information Systems and Technologies** student interested in **Data Science, Machine Learning, Image Processing, Computer Vision and Software Development**.
 
